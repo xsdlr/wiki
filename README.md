@@ -12,16 +12,16 @@
                 <a href="https://edgecastcdn.net/00107ED/freeweibo/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/freeweibo/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://fw3.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
-                <a href="https://d1stdkq55ggsv7.cloudfront.net" target="_BLANK">短期有效 2</a>
+                <a href="https://d2fstso2jh4dhr.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
         <tr>
             <td>中国数字时代</td>
             <td>            
-                <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/c/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://edgecastcdn.net/00107ED/cdt/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/cdt/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://1ff2d.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
-                <a href="https://d29jekp4emy41a.cloudfront.net" target="_BLANK">短期有效 2</a>
+                <a href="https://dazdu2iuzl72b.cloudfront.net" target="_BLANK">短期有效 2</a>
             </td>
         </tr>    
         <tr>
@@ -36,7 +36,7 @@
         <tr>
             <td>蓝灯/Lantern</td>
             <td>            
-                <a href="https://a248.e.akamai.net/f/1/1/1/dci.download.akamai.com/35985/159415/1/l/" target="_BLANK">长期有效 1</a>，            
+                <a href="https://edgecastcdn.net/00107ED/lantern/" target="_BLANK">长期有效 1</a>，            
                 <a href="https://objects.dreamhost.com/lantern/index.html" target="_BLANK">长期有效 2</a>，            
                 <a href="https://c7511.azurewebsites.net" target="_BLANK">短期有效 1</a>，            
                 <a href="https://dx1djqjpnvurw.cloudfront.net" target="_BLANK">短期有效 2</a>
@@ -62,43 +62,45 @@
 * <a href="https://b.us7.list-manage.com/subscribe?u=854fca58782082e0cbdf204a0&id=c78949b93c">自由微博和GreatFire.org邮件订阅</a>
     
 ## 新闻
-Censored Weibo posts and pics about the Hong Kong protests are filling our @FreeWeibo feed FYI @OCLPHK @inmediahk @hrw_chinese @hu_jia (2014年09月27日 19:44)
+RT @RTKcn: 21+ RT @beidaijin: 网爆 「公务员、公职人员的微博洗地成风，不是秘密，是任务」 #标记 <a href="https://twitter.com/beidaijin/status/522248440177123328/photo/1" target="_BLANK">twitter.com/beidaijin/status/522248440177123328/photo/1</a> (2014年10月15日 13:15)
  ---
-Police Arrest Dozens of Pro-Democracy Protesters in Hong Kong <a href="https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2014%2F09%2F28%2Fworld%2Fasia%2Fpro-democracy-protest-in-hong-kong.html%3F_r%3D5&REFUSE_COOKIE_ERROR=SHOW_ERROR" target="_BLANK">myaccount.nytimes.com/auth/login</a> (2014年09月27日 19:32)
+RT @Alex_Ogle: Sequence of pictures before and after this protester got pepper sprayed, as police advanced this morning in Hong Kong http:/… (2014年10月15日 10:23)
  ---
-RT @philmuncaster: China still pretending it is a victim not a perp of cyber crime cc. @GreatFireChina <a href="http://www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/" target="_BLANK">www.infosecurity-magazine.com/news/infosecurity-show-as-xiaomi-gets/</a> (2014年09月27日 19:16)
+香港市民高举双手，仍然被喷辣椒水，然后被警察在地上打。 南华早报视频 <a href="http://widgets.scmp.com/video/video_iframe.php?id=997293&movideo_m=997293" target="_BLANK">widgets.scmp.com/video/video_iframe.php</a> (2014年10月15日 10:21)
  ---
-如何跟外国人解释为何中国人不用 Facebook？<a href="http://www.zhihu.com/question/25433595" target="_BLANK">www.zhihu.com/question/25433595</a> (2014年09月27日 10:07)
+腾讯的图片识别功能，图片中如出现敏感图样或文字，发布后会无法显示。经记者和几位朋友的测试，在腾讯微博发布一张日文报纸的照片，图中有一个很小的热比娅的头像，结果数次发布都没有成功。<a href="https://objects.dreamhost.com/paopao/index.html?u=/article/206" target="_BLANK">objects.dreamhost.com/paopao/index.html</a> (2014年10月15日 02:58)
  ---
-RT @dwertime: This was immensely sad but important for me to write: Tohti's fate betrays a dark vision for the web's future. <a href="http://t.co/BM" target="_BLANK">t.co/BM</a>… (2014年09月26日 22:57)
+@telegram @larrysalibra We saw some IP addresses time out. You can keep monitoring the situation on <a href="https://en.greatfire.org/https/telegram.org" target="_BLANK">en.greatfire.org/https/telegram.org</a> (2014年10月15日 02:08)
  ---
-RT @klustout: "Grades will affect my future, society's political progress affects our future even more."  - 11th grader Tsz-Lung Liu #HKSch… (2014年09月26日 17:14)
+China GFW research: blocks happen at national, not provincial level; Tor works on CERNET; GFW not bullet proof <a href="http://cs.unm.edu/~royaen/gfw/techreport.pdf" target="_BLANK">cs.unm.edu/~royaen/gfw/techreport.pdf</a> (2014年10月15日 00:30)
  ---
-@yuri_snachov @kinablog @joshchin @melissakchan Flickr got blocked around the June 4th anniversary <a href="https://en.greatfire.org/flickr.com" target="_BLANK">en.greatfire.org/flickr.com</a> (2014年09月26日 16:33)
+RT @austinramzy: Democracy not excuse for turmoil @XHNews summary of commentary in Wednesday's People's Daily <a href="http://www.icrosschina.com/news/2014/1014/4439.shtml" target="_BLANK">www.icrosschina.com/news/2014/1014/4439.shtml</a> (2014年10月14日 23:47)
  ---
-@kinablog @melissakchan @joshchin PB has a long history of being blocked / unblocked / rendered unusable <a href="https://en.greatfire.org/https/thepiratebay.se" target="_BLANK">en.greatfire.org/https/thepiratebay.se</a> (2014年09月26日 16:30)
+RT @torproject: A closer look at the great firewall of China, <a href="https://blog.torproject.org/blog/closer-look-great-firewall-china" target="_BLANK">blog.torproject.org/blog/closer-look-great-firewall-china</a>  #china #tor #firewall #greatfirewall #rivercrabs #ce… (2014年10月14日 23:10)
  ---
-Here's a list of websites blocked in China <a href="http://www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/" target="_BLANK">www.techinasia.com/list-of-websites-blocked-in-china-by-great-firewall/</a> via @Techinasia - great summary w/categories of sites blocked (2014年09月26日 16:14)
+RT @ThePekingDuck: Spread the word: Shaun Rein wants your help! A new blog post. <a href="http://www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/" target="_BLANK">www.pekingduck.org/2014/10/shaun-rein-wants-your-help-marketing-the-end-of-copycat-china/</a> Oh, brother. (2014年10月14日 14:41)
  ---
-Russia orders Google, FB, Twitter 2 comply w/local storage &amp; censorship laws <a href="https://gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/" target="_BLANK">gigaom.com/2014/09/26/russia-orders-google-facebook-and-twitter-to-comply-with-local-storage-and-censorship-laws/</a> our China approach will work in Russia (2014年09月26日 16:00)
+RT @niubi: 【国平：港版颜色革命注定要失败】<a href="http://m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==?tt_group_id=3591733093&tt_from=twitter&iid=2337015665&app=news_article" target="_BLANK">m2.people.cn/r/MV8xXzI1ODI0NTcyXzEwMDNfMTQxMzE4NzQyMg==</a> (分享自 #今日头条#) so occupy hk is defined as "color revolution", what happens to the leaders? (2014年10月14日 14:24)
  ---
-RT @paopaonet: 中国互联网电视强制洗牌堪忧：经多位消息人士确认，广电总局约谈各家互联网视频企业，要求本周内所有视频网站开发的电视端APP下架。苏星河告诉泡泡记者，由此不能不联想到后面可能存在的利益关系，广电总局想为这个产业强制洗牌。<a href="https://t.co/mWi" target="_BLANK">t.co/mWi</a>… (2014年09月26日 13:01)
+Coming soon to Chinese streets <a href="http://www.youtube.com/watch?v=zJwZyW2Uels&feature=youtu.be&list=UUR2lg_YchvWGbpMxHg-EIgg" target="_BLANK">www.youtube.com/watch</a> especially love the folks who can't drive their cars backwards (2014年10月14日 02:00)
  ---
-中国五毛党的网络抹黑运动 <a href="http://cn.nytimes.com/opinion/20140923/c23murong/" target="_BLANK">cn.nytimes.com/opinion/20140923/c23murong/</a> (2014年09月25日 12:48)
+Sometime during initial student strike, the Hong Kong Jockey Club website got blocked in China. Collateral damage? <a href="https://en.greatfire.org/www.hkjc.com" target="_BLANK">en.greatfire.org/www.hkjc.com</a> (2014年10月14日 00:07)
  ---
-「大声说出来」跟「彼此心照不宣」有着决定性的区别。我们不是没有力量。一条恰当的宣言，哪怕它的内容只不过是「我知道」这么简简单单的一句话，也有可能引起整个社会的信念结构的根本改变，让许许多多人断然行动起来。这就是我们每一个人的力量。  来自《一个关于数学归纳法的悖论问题》 (2014年09月25日 12:39)
+RT @larrysalibra: Friends in mainland complaining @telegram is blocked. Anyone else? @GreatFireChina (2014年10月13日 23:58)
  ---
-RT @paopaonet: #兔个泡Oo 【新闻调查中心近日发布记者信息安全手册】CIJ为了保护新闻从业者的隐私安全出版了该手册。这本手册在硬件选型，操作系统以及如何在通信上保持匿名性都给出了很多指导性的方案。<a href="http://www.solidot.org/story?sid=41221" target="_BLANK">www.solidot.org/story</a> http://t.c… (2014年09月25日 11:51)
+@larrysalibra @telegram we don't test apps but if app is blocked then often website blocked too. Not the case here <a href="https://en.greatfire.org/www.telegram.org" target="_BLANK">en.greatfire.org/www.telegram.org</a> (2014年10月13日 23:58)
  ---
-Who is the biggest loser in the LinkedIn China censorship story? Perhaps the Chinese authorities. Our post: <a href="https://en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities" target="_BLANK">en.greatfire.org/blog/2014/sep/linkedin-debacle-may-come-back-haunt-chinese-authorities</a> (2014年09月24日 16:57)
+RT @tomgrundy: #OccupyHK protesters using cement to reinforce barriers in Causeway Bay 
+
+Photos from @JeromeTaylor &amp; @tricialing http://t.c… (2014年10月13日 20:05)
  ---
-@freetibetorg I can't seem to access the dossier here: <a href="http://freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf" target="_BLANK">freetibet.org/news-media/na/www.freetibet.org/sites/default/files/YouTubedossierSeptember2014.pdf</a> very interested in seeing that (2014年09月24日 16:25)
+RT @nytchinese: 大陆年轻人同情香港“占中”者寥寥，这不仅是政府审查和压制所致。看好莱坞长大的中国80后、90后，即使在私下场合，也很少同情香港抗议者。By @AndrewJacobsNYT #OccupyCentral <a href="http://cn.nytimes.com/china/20141011/c11beijing/" target="_BLANK">cn.nytimes.com/china/20141011/c11beijing/</a> (2014年10月13日 16:58)
  ---
-RT @freetibetorg: After fake Twitter accounts, China is using fake YouTube accounts for propaganda. Is anybody fooled? <a href="http://t.co/tPkowXWB" target="_BLANK">t.co/tPkowXWB</a>… (2014年09月24日 16:24)
+Which LinkedIn execs spoke out against self-censorship in China? Certainly not @jeffweiner <a href="http://www.businessweek.com/videos/2014-10-10/linkedin-ceo-learned-a-lot-by-expanding-into-china" target="_BLANK">www.businessweek.com/videos/2014-10-10/linkedin-ceo-learned-a-lot-by-expanding-into-china</a> (2014年10月13日 16:35)
  ---
-RT @niubi: "More Tightening of Internet Restrictions by China | LAWFARE" <a href="http://www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/" target="_BLANK">www.lawfareblog.com/2014/09/more-tightening-of-internet-restrictions-by-china/</a> (2014年09月24日 16:05)
+Snapchat self-censorship? Will influx of Chinese capital influence sensibilities of U.S. startups around free speech? <a href="http://techcrunch.com/2014/10/10/snapchat-hong-kong/" target="_BLANK">techcrunch.com/2014/10/10/snapchat-hong-kong/</a> (2014年10月13日 16:22)
  ---
-南华早报中文版解封了<a href="https://zh.greatfire.org/www.nanzao.com" target="_BLANK">zh.greatfire.org/www.nanzao.com</a>。 问题是有些文章读起来像新闻联播，比如《习接见港工商专业界访京团：中央对港政策不变》 <a href="http://www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu" target="_BLANK">www.nanzao.com/sc/hk/38528/xi-jie-jian-gang-gong-shang-zhuan-ye-jie-fang-jing-tuan-zhong-yang-dui-gang-zheng-ce-bu</a> (2014年09月24日 10:32)
+机智的当当网：那些即将买不到的书 <a href="https://edgecastcdn.net/00107ED/cdt/?u=/chinese/2014/10/%E6%9C%BA%E6%99%BA%E7%9A%84%E5%BD%93%E5%BD%93%E7%BD%91%EF%BC%9A%E9%82%A3%E4%BA%9B%E5%8D%B3%E5%B0%86%E4%B9%B0%E4%B8%8D%E5%88%B0%E7%9A%84%E4%B9%A6/" target="_BLANK">edgecastcdn.net/00107ED/cdt/</a> (2014年10月13日 06:57)
  ---
-China Has World's Tightest Internet Censorship, Study Finds. <a href="http://www.nytimes.com/2002/12/04/international/asia/04CHIN.html" target="_BLANK">www.nytimes.com/2002/12/04/international/asia/04CHIN.html</a> The 2002 reporting is still eerily accurate. (2014年09月24日 10:27)
+Here we go Reuters China. It has posted many articles converging #OccupyCental and not censored by Sina <a href="https://freeweibo.com/weibo/3764258418660339" target="_BLANK">freeweibo.com/weibo/3764258418660339</a> (2014年10月13日 04:24)
  ---
